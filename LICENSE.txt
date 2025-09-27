@@ -1,0 +1,36 @@
+Copyright © [Year] Anthony Gyepi-Garbrah
+
+Permission is hereby granted, free of charge, to any person or organization
+to use, copy, modify, and distribute this software and its documentation,
+subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   This software may not be used, in whole or in part, in any commercial or
+   production environment by for-profit companies or organizations without
+   prior written permission and a separate licensing agreement with the author.
+
+2. **License for Educational and Experimental Use**  
+   Use is permitted for personal, academic, or experimental purposes. This
+   includes modifying the code and sharing forks, provided they include this
+   license and attribution to the original author.
+
+3. **Attribution**  
+   Any redistribution of the source code or binaries must retain the above
+   copyright notice, this list of conditions, and the following disclaimer.
+
+4. **No Sublicensing or Resale**  
+   You may not sublicense, resell, or offer this software as a service,
+   component, or product without an explicit commercial license.
+
+5. **Disclaimer**  
+   THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
+
+To obtain a commercial license, contact:  
+Anthony Gyepi-Garbrah  
+a.gyepigarbrah@gmail.com
